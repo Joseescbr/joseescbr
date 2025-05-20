@@ -29,6 +29,8 @@ Trabajé en proyectos colaborativos para adquirir habilidades de trabajo en equi
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="(https://img.shields.io/badge/Python-Avanzado-blue?style=for-the-badge&logo=python&logoColor=white)" alt="Python"/>
+
 </div>
 
 ---
