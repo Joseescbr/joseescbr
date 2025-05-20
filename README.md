@@ -1,21 +1,56 @@
-# 💫 About Me:
-Formado como desarrollador Full Stack Junior. inicie mi carrera en un bootcamp de programación de Oracle. <br><br>Aprendí habilidades técnicas en tecnologías como Frontend | HTML5, CSS3, JavaScript y Backend | Java, SQL, MySQL además de sistemas de versiona miento como Git y GitHub.<br><br>Trabajé en proyectos colaborativos para adquirir habilidades valiosas de trabajo en equipo. Aunque no tengo un título universitario en informática, tengo una comprensión profunda de las tecnologías más utilizadas en la industria del desarrollo web. <br><br>Estoy comprometido a seguir aprendiendo y mejorando mis habilidades a medida que avance en mi carrera.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josedev4) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joseescbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joseescbr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseescbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center" style="background: linear-gradient(135deg, #4e8cff, #6a11cb); padding: 20px; border-radius: 15px;">
+  <h1 align="center" style="color: #fff;">🌟 Bienvenido a mi GitHub</h1>
+  <p align="center" style="color: #ddd; font-size: 18px;">📖 Formado como desarrollador Full Stack Junior | En constante aprendizaje 🚀</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Joseescbr&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 Sobre mí:
+Soy desarrollador Full Stack Junior apasionado por el aprendizaje continuo y la resolución de problemas. Mi camino en la tecnología comenzó con un bootcamp de Oracle, donde aprendí a construir aplicaciones robustas con tecnologías como:
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Java, SQL, MySQL
+- **Control de versiones**: Git y GitHub
+
+Trabajé en proyectos colaborativos para adquirir habilidades de trabajo en equipo y entiendo las demandas del desarrollo web moderno. Mi enfoque es siempre aprender y mejorar en este emocionante mundo de la tecnología.
+
+---
+
+## 🌐 Encuéntrame en redes sociales:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josedev4) 
+
+---
+
+# 💻 Tecnologías:
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+# 📊 Estadísticas de GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseescbr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseescbr&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseescbr&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+# ✍️ Frase aleatoria de inspiración:
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Joseescbr&icon=1&color=9" alt="Profile Views" />
+</div>
+
+<!-- Diseñado con ❤️ usando ideas de GPRM -->
